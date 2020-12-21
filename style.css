@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-family: cursive;
+}
+h1{
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: 600;
+}
+#app{
+    width: 100%;
+    height: 800px;
+    background-color: darkslateblue;
+}
+#game{
+    width: 100%;
+    height: 800px;
+    background-color: firebrick;
+}
